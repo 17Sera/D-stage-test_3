@@ -2,6 +2,9 @@
 *
 !*/
 !/nemu/*
+!/out/*
+!/nvboard/*
+!/am-kernels/*
 !/nexus-am/*
 !/nanos-lite/*
 !/navy-apps/*
@@ -11,5 +14,5 @@
 !README.md
 !.gitignore
 !init.sh
-/fceux-am
+!/fceux-am/*
 !/D-stage-npc/*
